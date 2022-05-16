@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "@11ty/eleventy": "^1.0.1"
+    "@11ty/eleventy": "^0.3.3"
   },
   "name": "11ty",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "build": "eleventy",
     "watch": "eleventy --watch",
